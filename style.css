@@ -1,0 +1,285 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+  margin-bottom: 0 !important;
+  border-radius: 0 !important;
+  border: 0 !important;
+}
+.navbar-inverse{
+  background-color: none !important;
+}
+.a{
+  padding: 200px 0;
+  background-image: url(img/bg-masthead.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.a h2{
+  color: #212529;
+  font-size: 82px;
+  font-weight: bolder;
+
+}
+.a h3{
+  font-style: italic;
+  color: #212529;
+  font-weight: 700;
+  font-size: 30px;
+}
+.a a{
+  background-color: #1d809f;
+  color: #fff;
+  border: 0;
+  padding: 24px 38px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.a a:hover{
+  background-color: #155D74;
+}
+/*second section */
+.b{
+  padding: 100px 40px!important;
+}
+.b h2{
+  font-weight: bolder;
+  color: #212529;
+  font-size: 32px;
+}
+.b p{
+  font-size: 16px;
+  margin-top: 14px;
+}
+.b a{
+  background-color: #343a40;
+  border: 0;
+  padding: 25px 40px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 25px;
+}
+.b a:hover{
+  background-color: #23272B;
+}
+
+
+
+.c{
+  background-color: #1D809F;
+  padding: 80px 60px !important;
+}
+.round{
+  margin-bottom: 20px;
+}
+.c i{
+  color: #1D809F;
+  font-size: 40px;
+  margin: 0 auto;
+}
+.c .circle{
+  width: 120px;
+  height: 120px;
+  margin: 0 auto;
+  display: inline-block;
+  background-color: #fff;
+  border-radius: 50%;
+  line-height: 140px;
+  margin-bottom: 20px;
+}
+.c h4{
+  font-size: 24px;
+  font-weight: bolder;
+  color: #fff;
+}
+.c p{
+  color: #9CD3DE;
+  font-size: 16px;
+}
+.c h2{
+  font-size: 50px;
+  margin-bottom: 40px;
+  font-weight: bolder;
+  color: #FFFFFF;
+}
+/* 4 th section  */
+
+
+
+
+.d{
+  padding: 200px 0;
+  background-image: url(img/bg-callout.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.d h1{
+  font-size: 60px;
+  font-weight: bolder;
+  color: #212529;
+}
+.d a{
+  background-color: #1d809f;
+  color: #fff;
+  border: 0;
+  padding: 24px 38px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.d a:hover{
+  background-color: #155D74;
+}
+
+
+.e{
+  padding: 60px 0;
+}
+.e h1{
+  font-size: 50px;
+  font-weight: bolder;
+  margin: 30px 0;
+}
+.e .image-fluid{
+  width: 100%;
+  height: auto;
+}
+.e .sitem{
+  position: relative;
+}
+.e a{
+  color: #fff;
+}
+.e h2{
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+}
+.e p{
+  font-size: 20px;
+  font-weight: 300;
+}
+.e a:hover{
+  color: #fff;
+}
+.e .caption-c{
+  position: absolute;
+  left: 30px;
+}
+.e .r{
+  overflow: hidden;
+  padding: 0;
+}
+
+
+
+
+/* fifth section */
+
+
+
+
+
+
+
+.f{
+  padding: 80px 0;
+  background-color: #1d809f;
+  color: #fff;
+}
+.f h2{
+  font-size: 35px;
+  font-weight: bold;
+}
+.f a{
+  border: 0;
+  padding: 24px 38px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.f .y{
+  color: #fff;
+  background-color: #343a40;
+  margin-right: 20px;
+}
+.f .y:hover{
+  background-color: #23272B;
+}
+.f .z{
+  color: #343a40;
+  background-color: #fff;
+}
+.f .z:hover{
+  color: #343a40;
+  background-color: #E2E6EA;
+}
+.g{
+  padding: 0px !important;
+}
+
+
+
+
+.search-text{
+	margin-top:50px;
+	background-color:#7dabdb;
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+.search-text .input-search{
+	height:45px;
+	width:400px;
+	padding-left:20px;
+    color:#333;
+}
+
+.search-text .btn-search{
+	background-color:#7dabdb;
+	border:1px solid #FFF;
+	color:#FFF;
+	padding: 11px 22px;
+}
+
+.search-text  .btn-search:hover{
+	background-color:#FFF;
+	color:#7dabdb;
+}
+
+.copyright{
+    background-color:#f0f0f0;
+}
+
+.copyright p{
+   margin:15px 0px;
+}
+
+footer{
+	background-color:#222222;
+	padding: 60px 0px;
+}
+
+footer .menu li a{
+	color:#b1aca1;
+	padding:10px;
+	text-decoration:none;
+}
+
+footer .menu li a:hover{
+	color:#7dabdb;
+}
+
+.fa.fa-facebook , .fa.fa-dropbox, .fa.fa-flickr , .fa.fa-github , .fa.fa-linkedin ,.fa,fa-tumblr ,.fa.fa-google-plus , .fa.fa-tumblr {
+	color:#b1aca1;
+	font-size:20px;
+	padding:10px;
+}
+
+.fa.fa-facebook:hover , .fa.fa-dropbox:hover , .fa.fa-flickr:hover  , .fa.fa-github:hover  , .fa.fa-linkedin:hover  ,.fa,fa-tumblr:hover  ,.fa.fa-google-plus:hover  , .fa.fa-tumblr:hover  {
+	color:#6794c2;
+}
